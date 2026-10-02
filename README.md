@@ -54,3 +54,4 @@ The allowed statuses (with severity) live in `processor.STATUS_SEVERITY`.
 Dashboard: https://invoicecontextbridge-contract-context-in.vokrix.co
 Vercel: invoicecontextbridge-contract-context-in
 Railway: invoicecontextbridge-contract-context-in
+Cloudflare: invoicecontextbridge-contract-context-in.vokrix.co

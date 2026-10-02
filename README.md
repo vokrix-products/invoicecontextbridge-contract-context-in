@@ -51,3 +51,5 @@ python3 run_tests.py
 
 `process_file` tries PDF extraction first, then Excel, then UTF-8 text/CSV.
 The allowed statuses (with severity) live in `processor.STATUS_SEVERITY`.
+Dashboard: https://invoicecontextbridge-contract-context-in.vokrix.co
+Vercel: invoicecontextbridge-contract-context-in

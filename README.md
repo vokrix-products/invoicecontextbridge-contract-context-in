@@ -55,3 +55,4 @@ Dashboard: https://invoicecontextbridge-contract-context-in.vokrix.co
 Vercel: invoicecontextbridge-contract-context-in
 Railway: invoicecontextbridge-contract-context-in
 Cloudflare: invoicecontextbridge-contract-context-in.vokrix.co
+Billing: price_1ULuMd2c9uGCcgMSokO7HPCz
